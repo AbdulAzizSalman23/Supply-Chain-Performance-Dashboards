@@ -128,3 +128,23 @@ A few interesting takeaways from the analysis:
 - ⚙️ **Calculated fields & parameters** – Core logic  
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard 1]([images/dashboard1.png](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Revenue%20%26%20Profit%20Overview.png))
+![Dashboard 2]([images/dashboard2.png](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Performance%20Drivers%20Analysis.png))
+
+## 🌐 Live Dashboard
+👉 [Explore Interactive Dashboard](https://public.tableau.com/views/YourDashboardName)
+
+## 💡 Business Problem
+Supply chain data is often fragmented across systems, making it difficult to track performance and identify inefficiencies.
+
+This dashboard consolidates key metrics into a single view, enabling:
+- Faster decision-making
+- Identification of delays and inefficiencies
+- Improved operational visibility
+
+## 📈 Business Impact
+- Helps identify profit leakage
+- Improves delivery performance tracking
+- Enables data-driven operational decisions
