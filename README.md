@@ -130,8 +130,8 @@ A few interesting takeaways from the analysis:
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard 1]([images/dashboard1.png](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Revenue%20%26%20Profit%20Overview.png))
-![Dashboard 2]([images/dashboard2.png](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Performance%20Drivers%20Analysis.png))
+![Dashboard 1](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Revenue%20%26%20Profit%20Overview.png)
+![Dashboard 2](https://github.com/AbdulAzizSalman23/Supply-Chain-Performance-Dashboards/blob/main/2.%20Dashboard%20Images/Supply%20Chain%20Performance%20Drivers%20Analysis.png)
 
 ## 🌐 Live Dashboard
 👉 [Explore Interactive Dashboard](https://public.tableau.com/views/YourDashboardName)
